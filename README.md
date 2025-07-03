@@ -3,6 +3,18 @@
 This is a simple **Netflix Clone** homepage built using **HTML** and **CSS** only.  
 It replicates the front-end design of Netflix's landing page with a responsive layout and modern styling.
 
+
+## 🌐 Live Demo
+
+👉 [Click here to view the live site](https://manish6862.github.io/netflix-clone/)
+
+
+## 🔧 Technologies Used
+
+- HTML5  
+- CSS3  
+- Responsive Web Design 
+
 ## 📁 Features
 
 - 🎥 Hero section with background image and overlay text  
@@ -17,19 +29,13 @@ It replicates the front-end design of Netflix's landing page with a responsive l
 ![Netflix Clone Desktop](img/homepage.png)
 
 ### 📱 Movie View
-![Netflix Clone Mobile](img/movie.png)
+![Netflix Clone Mobile](img/movies.png)
 
 ### 📱 Footer View
 ![Netflix Clone Mobile](img/footer.png)
 
-## 🔧 Technologies Used
 
-- HTML5  
-- CSS3  
-- Responsive Web Design  
+⚠️ This project is a **static UI clone of Netflix** made for educational purposes only. It does not include any real login, streaming, or backend services.
 
-## 🌐 Live Demo
-
-👉 [Click here to view the live site](https://manish6862.github.io/netflix-clone/)
 
 
